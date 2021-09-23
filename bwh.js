@@ -1,5 +1,5 @@
-const veid = "key";
-const api_key = "private_key";
+const veid = "1586954";
+const api_key = "private_9qov1qmG5Hf2XRtgCBTHLGgR";
 let url = "https://api.64clouds.com/v1/getServiceInfo?veid="+veid+"&api_key="+api_key;
 $httpClient.get(url, function(error, response, data){
 let resp = JSON.parse(data)
