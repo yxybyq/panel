@@ -1,0 +1,5 @@
+[Panel]
+bwh=title="网络状态",content="请刷新",style=info,script-name=bwh
+
+[Script]
+net-info-panel=script-path=https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tools/Panels/NetInfo/net-info-panel.js,type=generic
