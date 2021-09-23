@@ -11,7 +11,7 @@ let resp = JSON.parse(data)
    title: "𝔅𝔞𝔫𝔡𝔴𝔞𝔤𝔬𝔫𝔤 ℌ𝔬𝔰𝔱",
    icon: "pc",
    icon_color: "#4D4B2D",
-   content: "DATA： " + datares + "/"+datatotal+"G\n"+"RESET： " + reset
+   content: "DATA： " + datares + "/"+datatotal+"G\n"+"RESETS： " + reset
   });
 });
 function redate(datein) {
